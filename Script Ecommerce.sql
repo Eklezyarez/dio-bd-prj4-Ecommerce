@@ -2,7 +2,7 @@
 create database ecommerce;
 use ecommerce;
 
--- criar tabela cliente
+
 create table client(
 		idClient int auto_increment primary key,
         Fname varchar(10),
