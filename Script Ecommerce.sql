@@ -115,6 +115,7 @@ create table productSupplier(
 );
 
 desc productSupplier;
+
 show tables;
 show databases;
 use information_shema;
