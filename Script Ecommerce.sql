@@ -119,6 +119,6 @@ desc productSupplier;
 	show tables;
 	show databases;
 	use information_shema;
-show tables;
+	show tables;
 desc referetial_constraints;
 select * from referetial_constraints where constraint_schema = 'ecommerce';
